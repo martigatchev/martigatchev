@@ -1,4 +1,4 @@
-###👋 Hello, I’m Marti!
+👋 Hello, I’m Marti!
 
 - 📚 I am currently a Computer Systems Technology (CST) student at BCIT, looking to absorb as much knowledge as I can in the tech field!
 
