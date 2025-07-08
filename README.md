@@ -1,4 +1,4 @@
-###  👋 Hi, I’m Marti Gatchev
+###  👋 Hi, I’m Marti
 
 I'm a full-stack software developer passionate about building tools that combine automation, creativity, and real-world utility. I focus on integrating AI into modern applications to streamline workflows, tell better stories, and support expressive digital experiences.
 
