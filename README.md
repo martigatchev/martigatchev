@@ -1,10 +1,27 @@
-### 👋 Hello, I’m Marti!
+###  👋 Hi, I’m Marti Gatchev
 
-- 📚 I am currently a Computer Systems Technology (CST) student at BCIT, looking to absorb as much knowledge as I can in the tech field!
+I'm a full-stack software developer passionate about building tools that combine automation, creativity, and real-world utility. I focus on integrating AI into modern applications to streamline workflows, tell better stories, and support expressive digital experiences.
 
-- 🛠 I can code in Python, JavaScript, HTML, and CSS. In addition, I am actively learning Procedural Programming in C, and Object Oriented Programming in Java. 
+## 🔧 Tech I Use
+- **Languages**: Python, JavaScript/TypeScript, C#, HTML/CSS
+- **Frameworks**: Flask, React, Django, Node.js
+- **Tooling**: Docker, Selenium, Git, Bash, CI/CD
+- **Cloud**: AWS, Azure
+- **Data**: MongoDB, Azure SQL
+- **AI/ML**: OpenAI API, MidJourney (via automation programs), pandas, scikit-learn
 
-- 🧑‍💻 My future goals include: building a foundation in machine learning, and leveraging my tech skills and creative pursuits to help build software applications in music production and marketing.
+## 🌱 What I'm Into
+- Building creative automation pipelines (like auto-generating game content or visual storyboards)
+- Using large language models (LLMs) to assist human workflows
+- Making frontends feel natural, fast, and responsive
+- Connecting complex systems with clean, scalable backend architecture
+
+## 🧪 Projects
+### [Vosynia](https://www.vosynia.com)
+A worldbuilding and lore-generation platform for tabletop RPGs and story design.
+- Built with **React**, **Flask**, **OpenAI API**, and **AWS**
+- Includes a **Selenium-based Discord automation system** to trigger MidJourney for batch image generation
+- Modular architecture designed for extensibility and creative tooling
 
 <!--
 **martigatchev/martigatchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
