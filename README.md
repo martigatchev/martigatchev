@@ -19,7 +19,7 @@ I'm a full-stack software developer passionate about building tools that combine
 ## 🧪 Projects
 ### [Vosynia](https://www.vosynia.com)
 A worldbuilding and lore-generation platform for tabletop RPGs and story design.
-- Built with **React**, **Flask**, **OpenAI API**, and **AWS**
+- Built with **React**, **Midjourney**, **OpenAI API**, and **AWS**
 - Includes a **Selenium-based Discord automation system** to trigger MidJourney for batch image generation
 - Modular architecture designed for extensibility and creative tooling
 
